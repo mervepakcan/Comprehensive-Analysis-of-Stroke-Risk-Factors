@@ -26,10 +26,10 @@ Comprehensive-Analysis-of-Stroke-Risk-Factors/
 🔧 Prerequisites
 
 Ensure your system meets the following requirements:
-
-Python 3.9+ (Recommended for compatibility and performance)
-Jupyter Notebook (For running the analysis)
-Required Python libraries: pandas, numpy, matplotlib, seaborn, sklearn
+- Python 3.9+ (Recommended for compatibility and performance)
+- Jupyter Notebook (For running the analysis)
+- Required Python libraries: pandas, numpy, matplotlib, seaborn, sklearn
+  
 📥 Installation
 
 Clone this repository:
