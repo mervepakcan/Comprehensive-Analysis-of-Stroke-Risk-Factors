@@ -5,14 +5,13 @@ Comprehensive Analysis of Stroke Risk Factors
 This project is a Comprehensive Analysis of Stroke Risk Factors, aimed at identifying and evaluating the key variables affecting stroke risk. Using data-driven methodologies, this project incorporates exploratory data analysis, visualization, and machine learning models to extract meaningful insights and predict stroke probability with high accuracy.
 
 📊 Key Features
-
--In-depth exploratory data analysis (EDA) with visualizations 📈
--Data preprocessing (handling missing values, feature engineering, normalization) 🛠
--Advanced Machine Learning models (Logistic Regression, Decision Trees, Random Forest, SVM, XGBoost) 🤖
--Model evaluation & performance metrics (AUC-ROC, precision-recall, feature importance) 📊
--Comprehensive report and presentation summarizing findings 📜
+- **In-depth exploratory data analysis (EDA) with visualizations** 📈
+- **Data preprocessing (handling missing values, feature engineering, normalization)** 🛠
+- **Advanced Machine Learning models (Logistic Regression, Decision Trees, Random Forest, SVM, XGBoost)** 🤖
+- **Model evaluation & performance metrics (AUC-ROC, precision-recall, feature importance)** 📊
+- **Comprehensive report and presentation summarizing findings** 📜
+  
 📂 Project Structure
-
 Comprehensive-Analysis-of-Stroke-Risk-Factors/
 ```
 ├── Comprehensive_Analysis_of_Stroke_Risk_Factors/
