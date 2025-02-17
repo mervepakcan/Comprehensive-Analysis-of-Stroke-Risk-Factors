@@ -7,11 +7,11 @@ This project is a Comprehensive Analysis of Stroke Risk Factors, aimed at identi
 
 ## Key Features
 
-- **In-depth exploratory data analysis (EDA) with visualizations** 📈
-- **Data preprocessing (handling missing values, feature engineering, normalization)** 🛠
-- **Advanced Machine Learning models (Logistic Regression, Decision Trees, Random Forest, SVM, XGBoost)** 🤖
-- **Model evaluation & performance metrics (AUC-ROC, precision-recall, feature importance)** 📊
-- **Comprehensive report and presentation summarizing findings** 📜
+- In-depth exploratory data analysis (EDA) with visualizations** 📈
+- Data preprocessing (handling missing values, feature engineering, normalization)** 🛠
+- Advanced Machine Learning models (Logistic Regression, Decision Trees, Random Forest, SVM, XGBoost)** 🤖
+- Model evaluation & performance metrics (AUC-ROC, precision-recall, feature importance)** 📊
+- Comprehensive report and presentation summarizing findings** 📜
 
 ## Project Structure
 
