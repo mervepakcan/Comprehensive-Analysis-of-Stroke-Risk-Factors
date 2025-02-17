@@ -14,12 +14,14 @@ Comprehensive report and presentation summarizing findings 📜
 📂 Project Structure
 
 Comprehensive-Analysis-of-Stroke-Risk-Factors/
+```
 ├── Comprehensive_Analysis_of_Stroke_Risk_Factors/
 │   ├── MervePakcan_code.ipynb      # Jupyter Notebook with full analysis
 │   ├── MervePakcan_data.csv        # Dataset used in the project
 │   ├── MervePakcan_presentation.pdf # Project presentation slides
 │   ├── MervePakcan_report.pdf      # Final project report
 │   └── README.md                   # This documentation file
+```
 🚀 Getting Started
 
 🔧 Prerequisites
