@@ -104,17 +104,12 @@ Want to contribute? Follow these steps:
    ```
 4. Submit a Pull Request (PR) for review 🚀
 
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🎉 Acknowledgments
 
 Special thanks to:
-
-- Open-source datasets & researchers 📊
-- Machine learning community & contributors 👏
-- Feedback from domain experts & reviewers 🤝
+- Datasets & researchers 📊
+- ML community & contributors 👏
+- Domain experts & reviewers 🤝
 
 ✨ If you find this project useful, don't forget to give it a star ⭐ on GitHub! ✨
 ```` ▋
